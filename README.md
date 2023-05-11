@@ -6,4 +6,3 @@ Project Demonstration Video:
 https://youtu.be/-aqtXoR8_Rk
 
 
-**This version does not contain JavaFX.
